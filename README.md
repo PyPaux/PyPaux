@@ -1,27 +1,34 @@
-- 👋 Salut, c'est @PyPaux.
-- 🌱 J'apprends le développement d'applications (sur toutes les plateformes).
-- 💞️ J'utilise tout ça (🔥>🟢>🚧) :
-    - Java 🔥
-    - Javascript 🟢
-    - Typescript 🟢
-    - HTML 🔥
-    - CSS 🟢
-    - Bootstrap 🟢
-    - Spring 🔥
-    - Springboot 🔥
-    - Maven 🔥
-    - REST 🔥
-    - Node.js 🟢
-    - PostgreSQL 🟢
-    - MongoDB 🚧
-    - Python 🚧
-    - C# 🔥
-    - Linux 🔥
-    - Windows 🔥
-    - Git 🟢
-    - VsCode 🔥
-    - Android Studio 🟢
-    - Eclipse 🟢
-    - Agile 🟢
-- 📫 Discord : pypaux
-- ⚡ Powered by Sysser
+👋 Salut, c'est @PyPaux.  
+🌱 J'apprends le développement d'applications (sur toutes les plateformes).  
+
+<details>
+<summary>💞️ J'utilise tout ça :</summary>
+    (🔥 > 🟢 > 🚧)
+    
+- Java 🔥  
+- Javascript 🟢  
+- Typescript 🟢  
+- HTML 🔥  
+- CSS 🟢  
+- Bootstrap 🟢  
+- Spring 🔥  
+- Spring Boot 🔥  
+- Maven 🔥  
+- REST 🔥  
+- Node.js 🟢  
+- PostgreSQL 🟢  
+- MongoDB 🚧  
+- Python 🚧  
+- C# 🔥  
+- Linux 🔥  
+- Windows 🔥  
+- Git 🟢  
+- VS Code 🔥  
+- Android Studio 🟢  
+- Eclipse 🟢  
+- Agile 🟢  
+
+</details>
+
+📫 **Discord** : pypaux  
+⚡ **Powered by Sysser**  
