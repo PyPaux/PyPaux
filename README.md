@@ -2,7 +2,7 @@
 🌱 J'apprends le développement d'applications (sur toutes les plateformes).  
 
 <details>
-<summary>💞️ J'utilise tout ça :</summary>
+<summary>💻 J'utilise tout ça :</summary>
     (🔥 > 🟢 > 🚧)
     
 - Java 🔥  
