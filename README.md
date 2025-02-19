@@ -15,6 +15,7 @@
     - PostgreSQL 🟢
     - MongoDB 🚧
     - Python 🚧
+    - C# 🔥
     - Linux 🔥
     - Windows 🔥
     - Git 🟢
