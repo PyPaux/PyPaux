@@ -26,7 +26,11 @@
 - VS Code 🔥  
 - Android Studio 🟢  
 - Eclipse 🟢  
-- Agile 🟢  
+- Agile 🟢
+- Docker 🟢
+- Vagrant 🟢
+- React 🟢
+- React Native 🚧
 
 </details>
 
