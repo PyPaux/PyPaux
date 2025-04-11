@@ -1,5 +1,5 @@
 👋 Salut, c'est @PyPaux.  
-🌱 J'apprends le développement d'applications (sur toutes les plateformes).  
+🌱 J'apprends le développement d'applications sur toutes les plateformes.  
 
 <details>
 <summary>💻 J'utilise tout ça :</summary>
@@ -30,7 +30,7 @@
 - Docker 🟢
 - Vagrant 🟢
 - React 🟢
-- React Native 🚧
+- React Native 🟢
 
 </details>
 
